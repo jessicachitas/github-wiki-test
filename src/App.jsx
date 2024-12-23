@@ -14,7 +14,7 @@ function App() {
           <ul>
             <li>
               <a href="https://github.com/containers/ramalama?tab=readme-ov-file#install">
-                <button> <img src="/imgs/gravity-ui--arrow-shape-down-to-line.svg"></img> <p>Installation guide here</p></button>
+                <button> <img src="src/assets/gravity-ui--arrow-shape-down-to-line.svg"></img> <p>Installation guide here</p></button>
               </a>
             </li>
             <li>
