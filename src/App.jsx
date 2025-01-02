@@ -1,7 +1,5 @@
 import "./App.css";
-import installIcon from "public/imgs/gravity-ui--arrow-shape-down-to-line.svg";
-import githubIcon from "./public/octicon--mark-github-24.svg";
-import communityIcon from "assets/gravity-ui--persons.svg";
+import installIcon from "/imgs/gravity-ui--arrow-shape-down-to-line.svg?react";
 
 function App() {
   return (
@@ -17,17 +15,17 @@ function App() {
           <ul>
             <li>
               <a href="https://github.com/containers/ramalama?tab=readme-ov-file#install">
-                <button> <img src="public/imgs/gravity-ui--arrow-shape-down-to-line.svg" alt="Install Icon"></img> <p>Installation guide here</p></button>
+                <button> <img src={installIcon} alt="Install Icon"></img> <p>Installation guide here</p></button>
               </a>
             </li>
             <li>
               <a href="https://github.com/containers/ramalama">
-                <button> <img src="./public/octicon--mark-github-24.svg"></img> <p>Contribute to the project</p></button>
+                <button> <img src="/imgs/octicon--mark-github-24.svg"></img> <p>Contribute to the project</p></button>
               </a>
             </li>
             <li>
               <a href="https://matrix.to/#/#ramalama:fedoraproject.org">
-                <button> <img src="assets/gravity-ui--persons.svg"></img> <p>Interact with the community</p></button>
+                <button> <img src="/imgs/gravity-ui--persons.svg"></img> <p>Interact with the community</p></button>
               </a>
             </li>
             <li>
