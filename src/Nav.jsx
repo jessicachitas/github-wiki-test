@@ -1,12 +1,12 @@
 import React from "react";
 import "./Nav.css";
-import ramalamaLogo from "./assets/ramalama-logo-text-only.svg"
+import ramalamaLogo from "./assets/ramalama-logo-text-only.svg";
 
 const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-left">
-        <a href="/">
+        <a href="">
           <img className="logo" src={ramalamaLogo} alt="RamaLama Logo"></img>
         </a>
       </div>

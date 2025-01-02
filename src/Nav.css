@@ -1,6 +1,6 @@
 .logo {
   width: 20%;
-  margin: 1.5rem 2rem;
+  margin: 1.25rem 2rem;
 
   @media screen and (max-width: 1024px) {
     width: 30%;
