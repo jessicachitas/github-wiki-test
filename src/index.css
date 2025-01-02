@@ -1,6 +1,10 @@
+@font-face {
+  font-family: "Red Hat Display"; 
+  src: url(assets/RedHatDisplay-VariableFont_wght.ttf)
+}
+
 :root {
-  font-family: "Red Hat Display", system-ui, Avenir, Helvetica, Arial,
-    sans-serif;
+  font-family: "Red Hat Display", Arial, Helvetica, sans-serif; 
   line-height: 1.2;
   font-weight: 400;
   font-size: 1.2rem;

@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Red Hat Mono"; 
+  src: url(assets/RedHatMono-VariableFont_wght.ttf);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -105,7 +110,7 @@
 }
 
 .install-code {
-  font-family: "Red Hat Mono";
+  font-family: "Red Hat Mono", monospace !important; 
   font-weight: 500;
   padding: 1rem;
   background-color: #262626;
