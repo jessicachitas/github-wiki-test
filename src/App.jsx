@@ -2,7 +2,7 @@ import "./App.css";
 import installIcon from "./assets/gravity-ui--arrow-shape-down-to-line.svg";
 import githubIcon from "./assets/octicon--mark-github-24.svg";
 import communityIcon from "./assets/gravity-ui--persons.svg";
-import hardwareIcon from "./assets/gravity-ui--arrow-shape-down-to-line.svg";
+import hardwareIcon from "./assets/gravity-ui--gear.svg";
 import llamaMascot from "./assets/ramalama-logo-llama-only.svg";
 import aboutGraphic1 from "./assets/ramalama-about-graphic-1.svg";
 import aboutGraphic2 from "./assets/ramalama-about-graphic-2.svg";

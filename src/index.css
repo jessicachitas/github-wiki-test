@@ -6,7 +6,7 @@
 :root {
   font-family: "Red Hat Display", Arial, Helvetica, sans-serif; 
   line-height: 1.2;
-  font-weight: 400;
+  font-weight: normal;
   font-size: 1.2rem;
 
   color-scheme: light dark;
