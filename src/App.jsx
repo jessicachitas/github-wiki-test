@@ -1,5 +1,5 @@
 import "./App.css";
-import installIcon from "/imgs/gravity-ui--arrow-shape-down-to-line.svg?react";
+import installIcon from "./assets/gravity-ui--arrow-shape-down-to-line.png";
 
 function App() {
   return (
@@ -16,11 +16,11 @@ function App() {
             <li>
               <a href="https://github.com/containers/ramalama?tab=readme-ov-file#install">
                 <button> <img src={installIcon} alt="Install Icon"></img> <p>Installation guide here</p></button>
-              </a>
+              </a>""
             </li>
             <li>
               <a href="https://github.com/containers/ramalama">
-                <button> <img src="/imgs/octicon--mark-github-24.svg"></img> <p>Contribute to the project</p></button>
+                <button> <img src="./public/imgs/octicon--mark-github-24.svg"></img> <p>Contribute to the project</p></button>
               </a>
             </li>
             <li>
