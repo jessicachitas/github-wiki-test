@@ -16,7 +16,7 @@ function App() {
             <li>
               <a href="https://github.com/containers/ramalama?tab=readme-ov-file#install">
                 <button> <img src={installIcon} alt="Install Icon"></img> <p>Installation guide here</p></button>
-              </a>""
+              </a>
             </li>
             <li>
               <a href="https://github.com/containers/ramalama">
