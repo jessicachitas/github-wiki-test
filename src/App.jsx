@@ -1,5 +1,5 @@
 import "./App.css";
-import installIcon from "./assets/gravity-ui--arrow-shape-down-to-line.png";
+import installIcon from "./assets/gravity-ui--arrow-shape-down-to-line.svg";
 
 function App() {
   return (
