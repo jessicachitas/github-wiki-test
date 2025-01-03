@@ -71,7 +71,7 @@ function App() {
       {/* Install Section */}
       <div className="install viewport orange-background" id="install">
         <div className="install-info">
-          <h1 className="install-h1">It's one line and that's it!</h1>
+          <h1 className="install-h1">It&apos;s one line and that&apos;s it!</h1>
           <h2 className="install-h2">
             Install RamaLama by running this in your command line:
           </h2>

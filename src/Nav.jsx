@@ -1,4 +1,3 @@
-import React from "react";
 import "./Nav.css";
 import ramalamaLogo from "./assets/ramalama-logo-text-only.svg";
 
