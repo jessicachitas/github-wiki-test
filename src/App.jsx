@@ -77,8 +77,7 @@ function App() {
           </h2>
           <h3 className="install-h3">Linux and Mac:</h3>
           <p className="install-code">
-            curl -fsSL https://raw.githubcontent.com/
-            containers/ramalama/s/install.sh | bash
+            <div>curl -fsSL https://raw.githubcontent.com/</div><div>containers/ramalama/s/install.sh | bash</div>
           </p>
           <h3 className="install-h3">RamaLama is also available on PyPi!</h3>
           <p className="install-code">pip install ramalama</p>

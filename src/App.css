@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Red Hat Mono"; 
+  font-family: "Red Hat Mono";
   src: url(assets/RedHatMono-VariableFont_wght.ttf);
 }
 
@@ -75,7 +75,7 @@
   padding-right: 10rem;
   @media screen and (max-width: 500px) {
     padding: 0%;
-   font-size: 1rem;
+    font-size: 1rem;
   }
 }
 
@@ -110,12 +110,17 @@
 }
 
 .install-code {
-  font-family: "Red Hat Mono", monospace !important; 
+  /* word-break: break-all; */
+  font-family: "Red Hat Mono", monospace !important;
   font-weight: 500;
   padding: 1rem;
   background-color: #262626;
   border-radius: 15px;
   width: 100%;
+}
+
+.install-code div {
+  display: inline-flex;
 }
 
 .install-button {
@@ -125,7 +130,8 @@
   }
 }
 
-.demo, .about {
+.demo,
+.about {
   padding: 10%;
 }
 
